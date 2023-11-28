@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hematology-system/static/css/main.5a4dc30b.css",
+    "main.js": "/hematology-system/static/js/main.87649620.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/hematology-system/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/hematology-system/index.html",
+    "main.5a4dc30b.css.map": "/hematology-system/static/css/main.5a4dc30b.css.map",
+    "main.87649620.js.map": "/hematology-system/static/js/main.87649620.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/hematology-system/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4dc30b.css",
+    "static/js/main.87649620.js"
+  ]
+}
